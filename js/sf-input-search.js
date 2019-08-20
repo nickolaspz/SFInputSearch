@@ -3,8 +3,6 @@ if (!window.jQuery) {
 }
 
 (function($) {
-    // @Todo: DECLARE DEPENDENCIES:: Bootstrap css, JQUERY
-
     $.fn.SFInputSearch = (select, options) => {
         var self = this;
 
@@ -352,7 +350,7 @@ if (!window.jQuery) {
                 });
                 
                 var icon = document.createElement('img');
-                icon.src = 'img/plus-circle-solid.svg'; // @Todo: change to local image
+                icon.src = 'img/plus-circle-solid.svg';
                 icon.style.width = '14px';
                 icon.style.marginRight = '5px';
                 icon.style.position = 'relative';
