@@ -1,5 +1,11 @@
 # SFInputSearch
-Salesforce input search plugin. Made to replicate the look and feel of Salesforce's Lightning platform searchable input fields.
+Salesforce input search plugin. 
+jQuery plugin made to replicate the look and feel of Salesforce's Lightning platform searchable input fields.
+
+## Table of Contents
+
+* [Preview](#preview)
+* [Example](#example)
 
 ## Preview
 
